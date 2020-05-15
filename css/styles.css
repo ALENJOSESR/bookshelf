@@ -1,0 +1,176 @@
+
+body{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+#title{
+  /* background-color: #ff4c68; */
+  background: #63b7af;
+  color: #fff;
+
+}
+
+h1{
+    font-family: 'Play', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+
+  h3{
+    font-family: "Play";
+    font-weight: bold;
+  }
+
+p{
+  color: #8f8f8f;
+}
+
+  /* navigation bar */
+
+  .navbar{
+    margin-bottom: 4.5rem;
+  }
+  .navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 3rem;
+    font-weight: bold;
+  }
+
+  .nav-item{
+    padding: 0 18px;
+  }
+.nav-link{
+  font-size: 1.2rem;
+}
+
+/* Title container */
+.title-left{
+  margin-top:4.9rem;
+}
+
+/* Download button */
+
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+/* feature section */
+#features{
+  padding: 7% 15%;
+}
+
+.feature-box{
+
+  text-align: center;
+}
+
+.icon{
+  /* color: #ef8172; */
+  color: #abf0e9;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  /* color:  #ff4c68; */
+  color: #63b7af;
+
+}
+
+/* Book showcase */
+
+#book-showcase{
+  text-align: center;
+  /* background-color: #ef8172; */
+  background-color: #63b7af;
+  color: #fff;
+
+  font-family: "play";
+  font-weight: bold;
+
+
+}
+
+.book{
+  height: 200px;
+  width: 150px;
+  border-radius: 1.25rem;
+}
+
+em{
+  clear: left;
+}
+
+.carousel-item{
+  padding:  7% 15%;
+}
+/* .carousel-indicators{
+  top:400px;
+
+}
+
+.carousel-control-next-icon{
+  position: absolute;
+  left: 12.5rem;
+  right: auto;
+}
+
+.carousel-control-prev-icon{
+  position: absolute;
+  right: 12.5rem;
+  left: auto;
+} */
+
+/* Brand */
+#brand{
+  /* background-color: #ef8172; */
+  background-color: #63b7af;
+  text-align: center;
+  padding-bottom: 3%;
+
+}
+
+.brand-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+
+
+}
+
+
+/* pricing */
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-text{
+  font-family: "play";
+  font-weight: bold;
+
+}
+
+/* Call to action */
+#cta{
+  /* background-color:  #ff4c68; */
+  background-color: #63b7af;
+  text-align: center;
+  padding-top: 20px;
+}
+/* footer */
+
+#footer{
+  /* background-color:  #ff4c68; */
+  background-color: #63b7af;
+  /* color: #fff; */
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.Copyright{
+  color: #fff;
+}
